@@ -1,10 +1,12 @@
 .contact {
   display: flex;
+  gap: 10px;
   padding: 10px;
   border: 1px solid #d48383;
   border-radius: 10px;
   justify-content: space-between;
   align-items: center;
+
 }
 
 .container {
@@ -21,5 +23,5 @@
 }
 
 .button:hover {
-  background-color: #e53935;
+  background-color: darkorange;
 }
