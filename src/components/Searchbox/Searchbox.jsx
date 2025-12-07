@@ -12,4 +12,4 @@ const Searchbox = ({ filter, onChange }) => (
   </label>
 );
 
-export default SearchBox;
+export default Searchbox;
