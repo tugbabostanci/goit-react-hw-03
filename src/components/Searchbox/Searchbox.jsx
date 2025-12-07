@@ -2,7 +2,7 @@ import s from './Searchbox.module.css';
 
 const Searchbox = ({ filter, onChange }) => (
   <label className={s.searchbox}>
-    Find contacts by name
+    Find contacts 
     <input
       type="text"
       value={filter}

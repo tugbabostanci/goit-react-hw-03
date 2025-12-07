@@ -5,8 +5,8 @@
   align-items: center;
   padding: 20px;
   gap: 20px;
-  border: 1px solid #202020;
-  border-radius: 4px;
+  border: 1px solid #d48383;
+  border-radius: 10px;
 }
 
 .inputGroup {
@@ -32,5 +32,5 @@
 }
 
 .button:hover {
-  background-color: #45a049;
+  background-color: #729a74;
 }
